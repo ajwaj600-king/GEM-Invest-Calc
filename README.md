@@ -42,8 +42,9 @@ Follow the on-screen instructions to input your portfolio parameters and view an
 
 ## Example
 
-![Dashboard Example](images/dashboard_example.png)
-*Sample dashboard output (add your own screenshot if available)*
+![Dashboard Example](dashboard_example.png)
+*Sample dashboard output*
+
 
 ## Contributing
 
